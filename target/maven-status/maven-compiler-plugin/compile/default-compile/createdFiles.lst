@@ -1,0 +1,12 @@
+org\example\client\generated\UserServiceImplService.class
+org\example\server\UserServicePublisher.class
+org\example\client\generated\UserService.class
+org\example\server\UserService.class
+org\example\server\UserServiceImpl.class
+org\example\server\UserRepository.class
+org\example\client\generated\Gender.class
+org\example\server\User.class
+org\example\server\Gender.class
+org\example\client\generated\ObjectFactory.class
+org\example\client\generated\package-info.class
+org\example\client\generated\User.class
